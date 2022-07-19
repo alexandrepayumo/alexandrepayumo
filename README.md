@@ -1,2 +1,3 @@
-<h1>18 year old software engineering student at Concordia University</h1>
-<p>Neuroscience intern, python enthusiast</p>
+### Alexandre Payumo
+Hello! I'm an 18 year old software engineering student at Concordia University.
+I'm currently working as a research assistant at the McGill auditive neuroscience laboratory.
